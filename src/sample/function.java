@@ -12,8 +12,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.TextInputControl;
 import javafx.scene.layout.AnchorPane;
 import java.io.Writer;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+//import java.util.logging.Level;
+//import java.util.logging.Logger;
 
 import javafx.stage.Modality;
 import javafx.stage.Stage;
@@ -61,10 +61,11 @@ public class function {
             stage.setResizable(false);
             stage.show();
 
-        } catch (IOException exec) {
+        }
+        catch (IOException exec) {
             exec.printStackTrace();
-            Logger logger = Logger.getLogger(getClass().getName());
-            logger.log(Level.SEVERE, "Failed to create new Window.", e);
+//            Logger logger = Logger.getLogger(getClass().getName());
+//            logger.log(Level.SEVERE, "Failed to create new Window.", e);
         }
 
     }
