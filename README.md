@@ -1,7 +1,7 @@
-# JavaFX + MySQL Information Collector Tool
+# JavaFX + MySQL Information Collector Desktop App
 [![made-with-React](https://badgen.net/badge/Made-with/JavaFX/orange)](https://openjfx.io/) [![npm-package-version](https://badgen.net/badge/MySQL/v8.0.29/green)](https://www.mysql.com/) [![LinkedIn](https://badgen.net/badge/LinkedIn/Adokshaj-Bhandarkar/blue)](https://www.linkedin.com/in/adokshaj-bhandarkar-9a82211aa/) 
 
-- JavaFX + MySQL Information Collector Tool can be used to collector a user's information for multiple purposes for eg. Event Registration, Student Registration.
+- JavaFX + MySQL Information Collector Desktop App is be used to collect user information. Use cases: Event Registration, Student Registration.
 - Can be used both in online (MySQL Database) and offline mode (CSV file).
 - Made by **Adokshaj Bhandarkar** 🔥
 
